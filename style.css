@@ -1,0 +1,50 @@
+body {
+  margin: 50px;
+  background-color: #FAF6EC;
+
+}
+
+.output {
+  border: solid;
+  border-width: 1px;
+  height: 100px;
+  /*margin: 2px;*/
+  width: 200px;
+  background-color: #BCB3AD;
+}
+
+.heading {
+  width: 200px;
+  
+}
+
+.col-md-4 {
+
+}
+
+.col-md-3 {
+  border: solid;
+  border-width: 1px;
+  height: 50px;
+  width: 50px;
+  /*margin: 2px; */
+}
+
+.col-md-6 {
+  border: solid;
+  border-width: 1px;
+  height: 50px;
+  width: 100px;
+  /*margin: 2px;*/
+}
+
+.multiply, .minus, .plus, .equal, .divide {
+  background-color: #E24C38;
+  color: #FFFFFF;
+  border-color: black;
+}
+
+.ac, .plusminus, .percent {
+  background-color: #EB8476;
+  border-color: black;
+}
